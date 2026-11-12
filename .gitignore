@@ -1,0 +1,13 @@
+# CLion configuration
+.idea/
+
+# CMake build directories
+cmake-build-*/
+build/
+
+# Compiled executables
+/bytewarp
+
+# Object files
+*.o
+*.obj
